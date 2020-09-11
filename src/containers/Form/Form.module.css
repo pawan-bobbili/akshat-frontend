@@ -1,0 +1,8 @@
+.parent {
+  box-sizing: border-box;
+  width: 60%;
+  margin-top: 22px;
+  margin-bottom: 100px;
+  margin-left: 15%;
+  box-shadow: 2px 2px 2px 2 black;
+}
